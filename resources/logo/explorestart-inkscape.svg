@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   fill="currentColor"
+   class="bi bi-folder2-open"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="explorestart-inkscape.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient100">
+      <stop
+         style="stop-color:#349fe6;stop-opacity:1"
+         offset="0"
+         id="stop96" />
+      <stop
+         style="stop-color:#ec6ead;stop-opacity:1"
+         offset="1"
+         id="stop98" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient100"
+       id="linearGradient102"
+       x1="0.13338747"
+       y1="8.5000005"
+       x2="15.867866"
+       y2="8.5000005"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="36.769553"
+     inkscape:cx="6.8806929"
+     inkscape:cy="9.2331828"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <sodipodi:guide
+       position="8,10.326923"
+       orientation="1,0"
+       id="guide1397" />
+    <sodipodi:guide
+       position="-1.5769231,8"
+       orientation="0,-1"
+       id="guide1399" />
+  </sodipodi:namedview>
+  <path
+     d="M1 3.5A1.5 1.5 0 0 1 2.5 2h2.764c.958 0 1.76.56 2.311 1.184C7.985 3.648 8.48 4 9 4h4.5A1.5 1.5 0 0 1 15 5.5v.64c.57.265.94.876.856 1.546l-.64 5.124A2.5 2.5 0 0 1 12.733 15H3.266a2.5 2.5 0 0 1-2.481-2.19l-.64-5.124A1.5 1.5 0 0 1 1 6.14V3.5zM2 6h12v-.5a.5.5 0 0 0-.5-.5H9c-.964 0-1.71-.629-2.174-1.154C6.374 3.334 5.82 3 5.264 3H2.5a.5.5 0 0 0-.5.5V6zm-.367 1a.5.5 0 0 0-.496.562l.64 5.124A1.5 1.5 0 0 0 3.266 14h9.468a1.5 1.5 0 0 0 1.489-1.314l.64-5.124A.5.5 0 0 0 14.367 7H1.633z"
+     id="path2"
+     style="fill:url(#linearGradient102)" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.0271964"
+     d="M 2.8722766,13.935972 C 2.6460653,13.875136 2.4104295,13.736624 2.2282748,13.557413 2.0450944,13.377192 1.941841,13.21727 1.862005,12.990123 1.8079776,12.836405 1.1558476,7.7563306 1.1558476,7.4891764 c 0,-0.1776747 0.099588,-0.3412456 0.2529699,-0.4154964 L 1.5265742,7.016675 h 6.4788417 c 6.3946191,0 6.4802081,6.972e-4 6.5839731,0.053634 0.05782,0.029499 0.130724,0.086169 0.162003,0.1259343 0.129885,0.1651217 0.13505,0.095089 -0.213747,2.8980767 -0.179314,1.441002 -0.345334,2.6924 -0.368932,2.780884 -0.137047,0.513869 -0.524939,0.907613 -1.04458,1.060338 -0.132999,0.03909 -0.643798,0.04324 -5.1265241,0.04162 -4.2580533,-0.0015 -5.0000185,-0.0075 -5.1253323,-0.0412 z"
+     id="path1701" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.0271964"
+     d="M 1.9996013,4.7525735 C 1.9999971,4.019925 2.0114289,3.4735119 2.0278517,3.4022701 2.0641779,3.2446872 2.1428214,3.138536 2.2721075,3.0725791 2.3734566,3.0208747 2.4370884,3.018802 3.9230845,3.018802 c 1.6679495,0 1.6888777,0.00155 2.0122861,0.1492444 0.2692094,0.1229408 0.4567471,0.2714839 0.9453223,0.7487613 0.6403717,0.6255636 0.9662516,0.843173 1.5141231,1.0110696 0.1988363,0.060934 0.2045144,0.061091 2.728518,0.075461 l 2.529266,0.0144 0.100616,0.062563 c 0.181619,0.1129307 0.224323,0.2187675 0.235378,0.5833521 l 0.0097,0.3195578 H 7.9986105 1.9989365 Z"
+     id="path1740" />
+  <g
+     id="g81"
+     transform="matrix(0.83333333,0,0,0.83333333,1.3333334,1.9514103)">
+    <path
+       fill-rule="evenodd"
+       d="M 8,3 A 5,5 0 1 0 12.546,5.914 0.5,0.5 0 0 1 13.454,5.497 6,6 0 1 1 8,2 Z"
+       id="path2-9" />
+    <path
+       d="M 8,4.466 V 0.534 A 0.25,0.25 0 0 1 8.41,0.342 l 2.36,1.966 c 0.12,0.1 0.12,0.284 0,0.384 L 8.41,4.658 A 0.25,0.25 0 0 1 8,4.466 Z"
+       id="path4" />
+  </g>
+</svg>
