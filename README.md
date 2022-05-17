@@ -3,3 +3,9 @@
 simple tool to restart explorer.exe on Windows
 
 **WARNING:** This tool kills explorer.exe and therefore all running data transfers etc. Use at your own risk.
+
+## Download
+| Name | Description | OS | Arch | Download |
+| --- | --- | --- | --- | --- |
+| `explorestart-portable-v1.0.exe` | Portable | Windows 10 or higher | x86 and x64 | [Download](https://github.com/Hope-IT-Works/Explorestart/releases/download/v1.0/explorestart-portable-v1.0.exe) |
+| `explorestart-setup-v1.0.exe` | Setup | Windows 10 or higher | x86 and x64 | [Download](https://github.com/Hope-IT-Works/Explorestart/releases/download/v1.0/explorestart-setup-v1.0.exe) |
