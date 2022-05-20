@@ -15,7 +15,7 @@ Some anti-virus softwares are detecting Explorestart as virus. These warnings ca
 
 This has probably has to do with these reasons:
 - executable is not signed with a EV Code Signing certificate
-- executable runs embedded PowerShell code
+- executable runs embedded PowerShell code (maybe i recode Explorestart in C# to fix this issue)
  
 [VirusTotal result](https://www.virustotal.com/gui/file/ec1ee254229b1a1665469f18e766a631b346a537f4846b7da79cfe6950978dab/detection)
 
