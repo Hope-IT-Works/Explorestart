@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>explorestart.ico</ApplicationIcon>
+    <Authors>Hope-IT-Works</Authors>
+    <Copyright>Copyright © 2022 Tobias Meyer</Copyright>
+    <PackageIcon>explorestart.png</PackageIcon>
+    <RepositoryUrl>https://github.com/Hope-IT-Works/Explorestart</RepositoryUrl>
+    <Description>Explorestart</Description>
+    <PackageProjectUrl>https://hope-it-works.github.io/Explorestart/</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="explorestart.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\resources\logo\explorestart.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
